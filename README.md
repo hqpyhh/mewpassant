@@ -18,7 +18,7 @@ $ rake generate
 DO REMEMBER to back up the current template before installing.
 
 
-###Maupassant on different platform:
+### Maupassant on different platform:
 
 + Typecho：https://github.com/pagecho/maupassant/
 + Octopress：https://github.com/pagecho/mewpassant/
